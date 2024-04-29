@@ -1,0 +1,107 @@
+header {
+  background-color: purple;
+  height: 150px;
+  width: 100%;
+}
+
+footer {
+  background-color: orange;
+  height: 150px;
+  width: 100%;
+}
+
+#celR1K1 {
+  background-color: #003366;
+}
+
+#celR1K2 {
+  background-color: #336699;
+}
+
+#celR1K3 {
+  background-color: #6699cc;
+}
+
+#celR1K4 {
+  background-color: #99ccff;
+}
+
+#celR2K1 {
+  background-color: #660033;
+}
+
+#celR2K2 {
+  background-color: #993366;
+}
+
+#celR2K3 {
+  background-color: #cc6699;
+}
+
+#celR2K4 {
+  background-color: #ff99cc;
+}
+
+#celR3K1 {
+  background-color: #336600;
+}
+
+#celR3K2 {
+  background-color: #669933;
+}
+
+#celR3K3 {
+  background-color: #99cc66;
+}
+
+#celR3k4 {
+  background-color: #ccff99;
+}
+
+#celR4K1 {
+  background-color: #663300;
+}
+
+#celR4K2 {
+  background-color: #996633;
+}
+
+#celR4K3 {
+  background-color: #cc9966;
+}
+
+#celR4K4 {
+  background-color: #ffcc99;
+}
+
+#woordRood {
+  background-color: rgb(200, 20, 50);
+}
+
+#woordOranje {
+  background-color: rgb(200, 150, 0);
+}
+
+#woordGeel {
+  background-color: rgb(255, 200, 0);
+}
+
+#woordGroen {
+  background-color: rgb(25, 225, 25);
+}
+
+#woordBlauw {
+  background-color: rgb(40, 40, 200);
+}
+
+#woordPaars {
+  background-color: rgb(80, 0, 100);
+}
+
+#woordCyaan {
+  background-color: rgb(30, 210, 255);
+}
+
+#woordMagenta {
+  background-color: rgb(150, 0, 150);
+}
